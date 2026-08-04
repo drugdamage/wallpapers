@@ -1,21 +1,21 @@
 # wallpapers
 
-Личная коллекция обоев для рабочего стола. Без лишних слов — просто картинки, которые хочется видеть каждый день.
+Personal desktop wallpaper collection. No fuss — just images worth seeing every day.
 
 <p align="center">
   <img src="wallpapers/HLqLgyIa8AApugv.jpg" width="100%" alt="preview">
 </p>
 
-## Содержимое
+## Contents
 
-| Превью | Файл | Разрешение |
+| Preview | File | Resolution |
 |---|---|---|
 | <img src="wallpapers/HLqLgyIa8AApugv.jpg" width="220"> | [`HLqLgyIa8AApugv.jpg`](wallpapers/HLqLgyIa8AApugv.jpg) | 2048×1365 |
 
-## Использование
+## Usage
 
-Все файлы лежат в папке [`wallpapers/`](wallpapers) в оригинальном качестве — скачивай и ставь на рабочий стол.
+All files live in the [`wallpapers/`](wallpapers) folder at original quality — download and set as your desktop background.
 
 ---
 
-<sub>Обновляется по мере пополнения коллекции.</sub>
+<sub>Updated as the collection grows.</sub>
