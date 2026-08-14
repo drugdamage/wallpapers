@@ -8,7 +8,7 @@ Bit of a stash of desktop backgrounds, tbh. No fuss, no filler — just pics tha
 
 ## Contents
 
-| Preview | Vibe check | File | Resolution |
+| Preview | The lowdown | File | Resolution |
 |---|---|---|---|
 | <img src="wallpapers/HPio8YyakAAuz2-.jpg" width="220"> | Blue Blender render, proper sci-fi drip. Giving main-character-in-a-space-station energy | [`HPio8YyakAAuz2-.jpg`](wallpapers/HPio8YyakAAuz2-.jpg) | 3840×2160 |
 | <img src="wallpapers/HLzbq_KawAASNL6.jpg" width="220"> | Blurry street pic, motion-blurred to bits — chaotic but it works, dunno how | [`HLzbq_KawAASNL6.jpg`](wallpapers/HLzbq_KawAASNL6.jpg) | 4096×2734 |
