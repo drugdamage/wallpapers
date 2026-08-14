@@ -1,4 +1,4 @@
-# wallpapers 🖼️
+# wallpapers
 
 Bit of a stash of desktop backgrounds, tbh. No fuss, no filler — just pics that actually slap when you're stuck staring at a screen for the 400th hour today.
 
