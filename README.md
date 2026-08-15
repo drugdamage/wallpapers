@@ -11,6 +11,7 @@ Bit of a stash of desktop backgrounds, tbh. No fuss, no filler — just pics tha
 | Preview | The lowdown | File | Resolution |
 |---|---|---|---|
 | <img src="wallpapers/HPio8YyakAAuz2-.jpg" width="220"> | Blue Blender render, proper sci-fi drip. Giving main-character-in-a-space-station energy | [`HPio8YyakAAuz2-.jpg`](wallpapers/HPio8YyakAAuz2-.jpg) | 3840×2160 |
+| <img src="wallpapers/HLzcIsIbwAAK2Fw.jpg" width="220"> | Blurred city night shot, skyscrapers and headlights all smeared to streaks. Proper cyberpunk innit, zero chill | [`HLzcIsIbwAAK2Fw.jpg`](wallpapers/HLzcIsIbwAAK2Fw.jpg) | 4096×2734 |
 | <img src="wallpapers/HLzbq_KawAASNL6.jpg" width="220"> | Blurry street pic, motion-blurred to bits — chaotic but it works, dunno how | [`HLzbq_KawAASNL6.jpg`](wallpapers/HLzbq_KawAASNL6.jpg) | 4096×2734 |
 | <img src="wallpapers/HPNyQ8yagAA8Q65.jpg" width="220"> | Dark green hotel corridor. Liminal space core, dead unsettling but also kinda cosy?? | [`HPNyQ8yagAA8Q65.jpg`](wallpapers/HPNyQ8yagAA8Q65.jpg) | 3976×2652 |
 | <img src="wallpapers/HPV2142boAA8zAo.jpg" width="220"> | Fountain and lilies in a proper posh greenhouse. Dead peaceful, very "gone to touch grass" | [`HPV2142boAA8zAo.jpg`](wallpapers/HPV2142boAA8zAo.jpg) | 3133×2090 |
