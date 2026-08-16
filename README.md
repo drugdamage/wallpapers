@@ -20,6 +20,7 @@ Bit of a stash of desktop backgrounds, tbh. No fuss, no filler — just pics tha
 | <img src="wallpapers/HMSf1zBaUAAZ0FF.jpg" width="220"> | Night town skyline over the water. City lights going off, absolute banger | [`HMSf1zBaUAAZ0FF.jpg`](wallpapers/HMSf1zBaUAAZ0FF.jpg) | 4096×2731 |
 | <img src="wallpapers/HNrmbDFawAAgUt8.jpg" width="220"> | Black & green shot. Minimal, moody, mysterious — chef's kiss | [`HNrmbDFawAAgUt8.jpg`](wallpapers/HNrmbDFawAAgUt8.jpg) | 2655×2655 |
 | <img src="wallpapers/HLqLgyIa8AApugv.jpg" width="220"> | The OG. Proper broody storm clouds over the hills — the one that started this whole bit | [`HLqLgyIa8AApugv.jpg`](wallpapers/HLqLgyIa8AApugv.jpg) | 2048×1365 |
+| <img src="wallpapers/HPdBxRWbIAAy-Gy.jpg" width="220"> | Red lantern alley steps, proper old-school Asian night market energy. All red lights and shadows, dead atmospheric | [`HPdBxRWbIAAy-Gy.jpg`](wallpapers/HPdBxRWbIAAy-Gy.jpg) | 3976×2652 |
 
 ## Usage
 
