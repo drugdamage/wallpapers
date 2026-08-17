@@ -21,6 +21,7 @@ Bit of a stash of desktop backgrounds, tbh. No fuss, no filler — just pics tha
 | <img src="wallpapers/HNrmbDFawAAgUt8.jpg" width="220"> | Black & green shot. Minimal, moody, mysterious — chef's kiss | [`HNrmbDFawAAgUt8.jpg`](wallpapers/HNrmbDFawAAgUt8.jpg) | 2655×2655 |
 | <img src="wallpapers/HLqLgyIa8AApugv.jpg" width="220"> | The OG. Proper broody storm clouds over the hills — the one that started this whole bit | [`HLqLgyIa8AApugv.jpg`](wallpapers/HLqLgyIa8AApugv.jpg) | 2048×1365 |
 | <img src="wallpapers/HPdBxRWbIAAy-Gy.jpg" width="220"> | Red lantern alley steps, proper old-school Asian night market energy. All red lights and shadows, dead atmospheric | [`HPdBxRWbIAAy-Gy.jpg`](wallpapers/HPdBxRWbIAAy-Gy.jpg) | 3976×2652 |
+| <img src="wallpapers/HP0sdTobsAAkpnr.jpg" width="220"> | Escalator dipping through an oceanarium tunnel, fish having a swim right over your head. Proper eerie-blue underwater core, no cap | [`HP0sdTobsAAkpnr.jpg`](wallpapers/HP0sdTobsAAkpnr.jpg) | 3101×2069 |
 
 ## Usage
 
