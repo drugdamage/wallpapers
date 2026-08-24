@@ -26,6 +26,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HPQg4q2boAALS2L.jpg" width="220"> | Snowbound street, sun cutting through | [`HPQg4q2boAALS2L.jpg`](wallpapers/HPQg4q2boAALS2L.jpg) | 3859×2397 |
 | <img src="wallpapers/HPUQheYbIAAOsJg.jpg" width="220"> | Tokyo skyline at night, Tokyo Tower lit up | [`HPUQheYbIAAOsJg.jpg`](wallpapers/HPUQheYbIAAOsJg.jpg) | 3840×2160 |
 | <img src="wallpapers/HPk33h2bYAAXxM3.jpg" width="220"> | Blender render, tiled oculus pool with sand-textured water | [`HPk33h2bYAAXxM3.jpg`](wallpapers/HPk33h2bYAAXxM3.jpg) | 3000×2250 |
+| <img src="wallpapers/HPX-M-aacAEywA9.jpg" width="220"> | Japanese apartment blocks at dusk, lit mailbox alcove | [`HPX-M-aacAEywA9.jpg`](wallpapers/HPX-M-aacAEywA9.jpg) | 4096×2706 |
 
 ## Usage
 
