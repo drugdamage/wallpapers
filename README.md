@@ -29,6 +29,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HPX-M-aacAEywA9.jpg" width="220"> | Japanese apartment blocks at dusk, lit mailbox alcove | [`HPX-M-aacAEywA9.jpg`](wallpapers/HPX-M-aacAEywA9.jpg) | 4096×2706 |
 | <img src="wallpapers/HPXpLDfb0AAKKxZ.jpg" width="220"> | Glass tower facade, tree canopy reflected with a sun flare | [`HPXpLDfb0AAKKxZ.jpg`](wallpapers/HPXpLDfb0AAKKxZ.jpg) | 4096×2730 |
 | <img src="wallpapers/HPXVxUOa0AAy25a.jpg" width="220"> | Water lily pond through glass doors, potted anthuriums on the shelf | [`HPXVxUOa0AAy25a.jpg`](wallpapers/HPXVxUOa0AAy25a.jpg) | 3931×2216 |
+| <img src="wallpapers/HPb5QYCasAAjvH8.jpg" width="220"> | Lit vending machine under a highway overpass, apartment blocks glowing beyond | [`HPb5QYCasAAjvH8.jpg`](wallpapers/HPb5QYCasAAjvH8.jpg) | 4096×2731 |
 
 ## Usage
 
