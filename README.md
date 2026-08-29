@@ -31,6 +31,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HPXVxUOa0AAy25a.jpg" width="220"> | Water lily pond through glass doors | [`HPXVxUOa0AAy25a.jpg`](wallpapers/HPXVxUOa0AAy25a.jpg) | 3931×2216 |
 | <img src="wallpapers/HPb5QYCasAAjvH8.jpg" width="220"> | Lit vending machine under an overpass | [`HPb5QYCasAAjvH8.jpg`](wallpapers/HPb5QYCasAAjvH8.jpg) | 4096×2731 |
 | <img src="wallpapers/HPbnwBPaQAAgH51.jpg" width="220"> | Empty overpass at night, clinic signage lining the way | [`HPbnwBPaQAAgH51.jpg`](wallpapers/HPbnwBPaQAAgH51.jpg) | 4096×2736 |
+| <img src="wallpapers/HPbw5niakAA2nVp.jpg" width="220"> | Vaulted wooden walkway, porthole windows over the city at night | [`HPbw5niakAA2nVp.jpg`](wallpapers/HPbw5niakAA2nVp.jpg) | 4096×2732 |
 
 ## Usage
 
