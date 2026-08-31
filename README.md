@@ -33,6 +33,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HPbnwBPaQAAgH51.jpg" width="220"> | Empty overpass at night, clinic signage lining the way | [`HPbnwBPaQAAgH51.jpg`](wallpapers/HPbnwBPaQAAgH51.jpg) | 4096×2736 |
 | <img src="wallpapers/HPbw5niakAA2nVp.jpg" width="220"> | Vaulted wooden walkway, porthole windows over the city at night | [`HPbw5niakAA2nVp.jpg`](wallpapers/HPbw5niakAA2nVp.jpg) | 4096×2732 |
 | <img src="wallpapers/HQ0UfaHa8AIh0wf.jpg" width="220"> | Rainy hotel room view, foggy city lights through the window | [`HQ0UfaHa8AIh0wf.jpg`](wallpapers/HQ0UfaHa8AIh0wf.jpg) | 4096×2730 |
+| <img src="wallpapers/HQvXQgjboAAjAPc.jpg" width="220"> | Empty hotel stairwell, seashell-patterned carpet and wicker chairs | [`HQvXQgjboAAjAPc.jpg`](wallpapers/HQvXQgjboAAjAPc.jpg) | 3818×2303 |
 
 ## Usage
 
