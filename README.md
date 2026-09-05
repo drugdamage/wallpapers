@@ -38,6 +38,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/soroush-h-zargarbashi-ld0ePNL7oZI-unsplash.jpg" width="220"> | Curved glass office tower at night, lit floors against black shadow | [`soroush-h-zargarbashi-ld0ePNL7oZI-unsplash.jpg`](wallpapers/soroush-h-zargarbashi-ld0ePNL7oZI-unsplash.jpg) | 5113×3409 |
 | <img src="wallpapers/michael-matloka-5nPuim5DkQ8-unsplash.jpg" width="220"> | Perforated metal facade curving into blue-lit glass, night | [`michael-matloka-5nPuim5DkQ8-unsplash.jpg`](wallpapers/michael-matloka-5nPuim5DkQ8-unsplash.jpg) | 5472×3648 |
 | <img src="wallpapers/liana-s-dnRdxEt8hd8-unsplash.jpg" width="220"> | Backlit glass block window, warm light through the grid | [`liana-s-dnRdxEt8hd8-unsplash.jpg`](wallpapers/liana-s-dnRdxEt8hd8-unsplash.jpg) | 6016×4016 |
+| <img src="wallpapers/lai-man-nung-6l490AkHJrU-unsplash.jpg" width="220"> | Diagonal office facade at night, blurred floor lights and teal streaks | [`lai-man-nung-6l490AkHJrU-unsplash.jpg`](wallpapers/lai-man-nung-6l490AkHJrU-unsplash.jpg) | 6048×4024 |
 
 ## Usage
 
