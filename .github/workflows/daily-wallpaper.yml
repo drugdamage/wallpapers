@@ -1,0 +1,123 @@
+name: Daily Wallpaper
+
+on:
+  schedule:
+    # 09:00 UTC every day
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Publish next queued wallpaper
+        id: publish
+        run: |
+          python3 - <<'PY'
+          import glob
+          import os
+          import re
+
+          github_output = os.environ["GITHUB_OUTPUT"]
+
+          def set_output(key, value):
+              with open(github_output, "a") as f:
+                  f.write(f"{key}={value}\n")
+
+          # Find the lowest-numbered queued image (queue/01.jpg, queue/02.jpg, ...)
+          candidates = []
+          for path in glob.glob("queue/*.jpg"):
+              name = os.path.basename(path)
+              m = re.fullmatch(r"(\d+)\.jpg", name)
+              if m:
+                  candidates.append((int(m.group(1)), name))
+          candidates.sort()
+
+          if not candidates:
+              print("Queue is empty, nothing to publish.")
+              set_output("published", "false")
+              raise SystemExit(0)
+
+          num_int, image_name = candidates[0]
+          num = os.path.splitext(image_name)[0]
+          queue_image = f"queue/{image_name}"
+          entry_path = f"queue/entries/{num}.md"
+
+          if not os.path.exists(entry_path):
+              raise SystemExit(f"Missing entry file {entry_path} for {queue_image}")
+
+          with open(entry_path, "r", encoding="utf-8") as f:
+              entry_text = f.read()
+
+          fm_match = re.match(r"^---\n(.*?)\n---\n(.*)$", entry_text, re.DOTALL)
+          if not fm_match:
+              raise SystemExit(f"Could not parse frontmatter in {entry_path}")
+
+          frontmatter, body = fm_match.groups()
+          fields = {}
+          for line in frontmatter.splitlines():
+              if ":" in line:
+                  key, value = line.split(":", 1)
+                  fields[key.strip()] = value.strip()
+
+          filename = fields.get("filename")
+          resolution = fields.get("resolution")
+          description = body.strip()
+
+          if not filename or not resolution or not description:
+              raise SystemExit(f"Incomplete entry in {entry_path}: {fields}, desc={description!r}")
+
+          target_path = f"wallpapers/{filename}"
+          if os.path.exists(target_path):
+              raise SystemExit(f"{target_path} already exists, refusing to overwrite")
+
+          os.rename(queue_image, target_path)
+
+          # Insert the new row as the last row of the README table,
+          # right before the "## Usage" section.
+          with open("README.md", "r", encoding="utf-8") as f:
+              lines = f.readlines()
+
+          usage_idx = next(
+              (i for i, line in enumerate(lines) if line.strip() == "## Usage"), None
+          )
+          if usage_idx is None:
+              raise SystemExit("Could not find '## Usage' section in README.md")
+
+          insert_at = usage_idx
+          while insert_at > 0 and lines[insert_at - 1].strip() == "":
+              insert_at -= 1
+
+          row = (
+              f'| <img src="wallpapers/{filename}" width="220"> | {description} | '
+              f'[`{filename}`](wallpapers/{filename}) | {resolution} |\n'
+          )
+          lines.insert(insert_at, row)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.writelines(lines)
+
+          os.remove(entry_path)
+
+          with open("/tmp/commit_message.txt", "w", encoding="utf-8") as f:
+              f.write(description[0].lower() + description[1:])
+
+          set_output("published", "true")
+          print(f"Published {filename}")
+          PY
+
+      - name: Commit and push
+        if: steps.publish.outputs.published == 'true'
+        run: |
+          git config user.name "drugdamage"
+          git config user.email "popovlip2005@gmail.com"
+          git add wallpapers/ queue/ README.md
+          MSG="New pic — $(cat /tmp/commit_message.txt)"
+          git commit -m "$MSG"
+          git push origin HEAD:main
