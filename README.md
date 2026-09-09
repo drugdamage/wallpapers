@@ -42,6 +42,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/brooklen-ashleigh-PNqsv-g17-s-unsplash.jpg" width="220"> | Angled sky-bridges between office towers at night, shot low with a blurred railing in front | [`brooklen-ashleigh-PNqsv-g17-s-unsplash.jpg`](wallpapers/brooklen-ashleigh-PNqsv-g17-s-unsplash.jpg) | 7952×5304 |
 | <img src="wallpapers/HP_d-I1acAA6RHA.jpg" width="220"> | Underground pedestrian gallery, rows of lit columns and Japanese signage | [`HP_d-I1acAA6RHA.jpg`](wallpapers/HP_d-I1acAA6RHA.jpg) | 3968×2976 |
 | <img src="wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg" width="220"> | Cantilevered office block at night, shot from below, striped ceiling louvers and pixel-art stickers on the glass | [`dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg`](wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg) | 5472×3648 |
+| <img src="wallpapers/HMsYxP6b0AAORND.jpg" width="220"> | Row of vending machines on a dusk beach promenade, island silhouette across the water | [`HMsYxP6b0AAORND.jpg`](wallpapers/HMsYxP6b0AAORND.jpg) | 4096×2730 |
 
 ## Usage
 
