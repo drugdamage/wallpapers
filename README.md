@@ -43,6 +43,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HP_d-I1acAA6RHA.jpg" width="220"> | Underground pedestrian gallery, rows of lit columns and Japanese signage | [`HP_d-I1acAA6RHA.jpg`](wallpapers/HP_d-I1acAA6RHA.jpg) | 3968×2976 |
 | <img src="wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg" width="220"> | Cantilevered office block at night, shot from below, striped ceiling louvers and pixel-art stickers on the glass | [`dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg`](wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg) | 5472×3648 |
 | <img src="wallpapers/HMsYxP6b0AAORND.jpg" width="220"> | Row of vending machines on a dusk beach promenade, island silhouette across the water | [`HMsYxP6b0AAORND.jpg`](wallpapers/HMsYxP6b0AAORND.jpg) | 4096×2730 |
+| <img src="wallpapers/HP2Z3X5a4AA1CoV.jpg" width="220"> | Kyoto Station platform, curved roof overhang, train and hills in the distance | [`HP2Z3X5a4AA1CoV.jpg`](wallpapers/HP2Z3X5a4AA1CoV.jpg) | 4096×2731 |
 
 ## Usage
 
