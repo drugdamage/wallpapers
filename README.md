@@ -48,6 +48,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HP1WoYjboAAYnSs.jpg" width="220"> | Empty parking lot, city skyline and skyscrapers behind, daytime | [`HP1WoYjboAAYnSs.jpg`](wallpapers/HP1WoYjboAAYnSs.jpg) | 4096×2731 |
 | <img src="wallpapers/HP3piLqbYAAU4_7.jpg" width="220"> | Tokyo Station's brick facade at dusk, skyscrapers rising behind | [`HP3piLqbYAAU4_7.jpg`](wallpapers/HP3piLqbYAAU4_7.jpg) | 4096×2304 |
 | <img src="wallpapers/HP1fE0kaIAALzEh.jpg" width="220"> | Empty side street at night, blue neon glow from a clinic entrance | [`HP1fE0kaIAALzEh.jpg`](wallpapers/HP1fE0kaIAALzEh.jpg) | 4096×2731 |
+| <img src="wallpapers/HP3pmqXa8AAe8PM.jpg" width="220"> | Ginza crossing at night, Wako clock tower and light trails from traffic | [`HP3pmqXa8AAe8PM.jpg`](wallpapers/HP3pmqXa8AAe8PM.jpg) | 4096×2304 |
 
 ## Usage
 
