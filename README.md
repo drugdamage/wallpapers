@@ -42,13 +42,6 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/brooklen-ashleigh-PNqsv-g17-s-unsplash.jpg" width="220"> | Angled sky-bridges between office towers at night, shot low with a blurred railing in front | [`brooklen-ashleigh-PNqsv-g17-s-unsplash.jpg`](wallpapers/brooklen-ashleigh-PNqsv-g17-s-unsplash.jpg) | 7952×5304 |
 | <img src="wallpapers/HP_d-I1acAA6RHA.jpg" width="220"> | Underground pedestrian gallery, rows of lit columns and Japanese signage | [`HP_d-I1acAA6RHA.jpg`](wallpapers/HP_d-I1acAA6RHA.jpg) | 3968×2976 |
 | <img src="wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg" width="220"> | Cantilevered office block at night, shot from below, striped ceiling louvers and pixel-art stickers on the glass | [`dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg`](wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg) | 5472×3648 |
-| <img src="wallpapers/HMsYxP6b0AAORND.jpg" width="220"> | Row of vending machines on a dusk beach promenade, island silhouette across the water | [`HMsYxP6b0AAORND.jpg`](wallpapers/HMsYxP6b0AAORND.jpg) | 4096×2730 |
-| <img src="wallpapers/HP2Z3X5a4AA1CoV.jpg" width="220"> | Kyoto Station platform, curved roof overhang, train and hills in the distance | [`HP2Z3X5a4AA1CoV.jpg`](wallpapers/HP2Z3X5a4AA1CoV.jpg) | 4096×2731 |
-| <img src="wallpapers/HP_0CIzboAAVGke.jpg" width="220"> | Riverside town at night, lit apartment tower reflected in the water | [`HP_0CIzboAAVGke.jpg`](wallpapers/HP_0CIzboAAVGke.jpg) | 4096×2734 |
-| <img src="wallpapers/HP1WoYjboAAYnSs.jpg" width="220"> | Empty parking lot, city skyline and skyscrapers behind, daytime | [`HP1WoYjboAAYnSs.jpg`](wallpapers/HP1WoYjboAAYnSs.jpg) | 4096×2731 |
-| <img src="wallpapers/HP3piLqbYAAU4_7.jpg" width="220"> | Tokyo Station's brick facade at dusk, skyscrapers rising behind | [`HP3piLqbYAAU4_7.jpg`](wallpapers/HP3piLqbYAAU4_7.jpg) | 4096×2304 |
-| <img src="wallpapers/HP1fE0kaIAALzEh.jpg" width="220"> | Empty side street at night, blue neon glow from a clinic entrance | [`HP1fE0kaIAALzEh.jpg`](wallpapers/HP1fE0kaIAALzEh.jpg) | 4096×2731 |
-| <img src="wallpapers/HP3pmqXa8AAe8PM.jpg" width="220"> | Ginza crossing at night, Wako clock tower and light trails from traffic | [`HP3pmqXa8AAe8PM.jpg`](wallpapers/HP3pmqXa8AAe8PM.jpg) | 4096×2304 |
 
 ## Usage
 
