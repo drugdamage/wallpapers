@@ -44,6 +44,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg" width="220"> | Cantilevered office block at night, shot from below, striped ceiling louvers and pixel-art stickers on the glass | [`dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg`](wallpapers/dariia-lemesheva-2tLI3s8rzJU-unsplash.jpg) | 5472×3648 |
 | <img src="wallpapers/HP1WoYjboAAYnSs.jpg" width="220"> | Empty parking lot, city skyline and skyscrapers behind, daytime | [`HP1WoYjboAAYnSs.jpg`](wallpapers/HP1WoYjboAAYnSs.jpg) | 4096×2731 |
 | <img src="wallpapers/HP2Z3X5a4AA1CoV.jpg" width="220"> | Elevated station platform, bullet train below and hazy hills behind, overcast daytime | [`HP2Z3X5a4AA1CoV.jpg`](wallpapers/HP2Z3X5a4AA1CoV.jpg) | 4096×2731 |
+| <img src="wallpapers/HP_0CIzboAAVGke.jpg" width="220"> | Riverside houses at night, lit apartment tower behind and still water reflecting the lights | [`HP_0CIzboAAVGke.jpg`](wallpapers/HP_0CIzboAAVGke.jpg) | 4096×2734 |
 
 ## Usage
 
