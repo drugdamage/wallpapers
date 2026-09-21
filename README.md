@@ -46,6 +46,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HP2Z3X5a4AA1CoV.jpg" width="220"> | Elevated station platform, bullet train below and hazy hills behind, overcast daytime | [`HP2Z3X5a4AA1CoV.jpg`](wallpapers/HP2Z3X5a4AA1CoV.jpg) | 4096×2731 |
 | <img src="wallpapers/HP_0CIzboAAVGke.jpg" width="220"> | Riverside houses at night, lit apartment tower behind and still water reflecting the lights | [`HP_0CIzboAAVGke.jpg`](wallpapers/HP_0CIzboAAVGke.jpg) | 4096×2734 |
 | <img src="wallpapers/HP7ivhsbEAAnERx.jpg" width="220"> | Dark MINI showroom entrance, low sun casting sharp shadow streaks across the tiled floor | [`HP7ivhsbEAAnERx.jpg`](wallpapers/HP7ivhsbEAAnERx.jpg) | 4096×2731 |
+| <img src="wallpapers/HSo3I01bUAAq_gC.jpg" width="220"> | Snowbound Japanese street, tangled power lines against a hazy overcast sky | [`HSo3I01bUAAq_gC.jpg`](wallpapers/HSo3I01bUAAq_gC.jpg) | 3899×2600 |
 
 ## Usage
 
