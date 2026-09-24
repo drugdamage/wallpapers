@@ -49,6 +49,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HSo3I01bUAAq_gC.jpg" width="220"> | Snowbound Japanese street, tangled power lines against a hazy overcast sky | [`HSo3I01bUAAq_gC.jpg`](wallpapers/HSo3I01bUAAq_gC.jpg) | 3899×2600 |
 | <img src="wallpapers/HPxujdPbgAAKv0i.jpg" width="220"> | Hillside road at night, suburb lights spreading below and a pylon against the dark sky | [`HPxujdPbgAAKv0i.jpg`](wallpapers/HPxujdPbgAAKv0i.jpg) | 4096×2730 |
 | <img src="wallpapers/HS3GzlFakAAIJ6z.jpg" width="220"> | Japanese side street at dusk, lit Welcia drugstore under tangled power lines and a pink-streaked sky | [`HS3GzlFakAAIJ6z.jpg`](wallpapers/HS3GzlFakAAIJ6z.jpg) | 4096×2731 |
+| <img src="wallpapers/HP6s7DjaIAAMCnA.jpg" width="220"> | Narrow lit apartment block at a quiet Japanese intersection, blue-hour clouds and a tangle of power lines | [`HP6s7DjaIAAMCnA.jpg`](wallpapers/HP6s7DjaIAAMCnA.jpg) | 4096×2731 |
 
 ## Usage
 
