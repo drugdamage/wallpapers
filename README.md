@@ -52,6 +52,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HP6s7DjaIAAMCnA.jpg" width="220"> | Narrow lit apartment block at a quiet Japanese intersection, blue-hour clouds and a tangle of power lines | [`HP6s7DjaIAAMCnA.jpg`](wallpapers/HP6s7DjaIAAMCnA.jpg) | 4096×2731 |
 | <img src="wallpapers/HPhhXi9aMAEKuq9.jpg" width="220"> | Dim harbor terminal lobby beside a vending machine, tall windows framing Tokyo Bay, a looping expressway and grey overcast towers | [`HPhhXi9aMAEKuq9.jpg`](wallpapers/HPhhXi9aMAEKuq9.jpg) | 4096×2731 |
 | <img src="wallpapers/HP3prVob0AAtjZP.jpg" width="220"> | Shuttered retro izakaya row under the railway arches at night, paper lanterns, old signs and an empty street beyond | [`HP3prVob0AAtjZP.jpg`](wallpapers/HP3prVob0AAtjZP.jpg) | 4096×2304 |
+| <img src="wallpapers/declan-sun-8XjL13x879c-unsplash.jpg" width="220"> | Brutalist concrete walkways and interlocking ramps, dark wooden decking and mossy parapets under grey daylight | [`declan-sun-8XjL13x879c-unsplash.jpg`](wallpapers/declan-sun-8XjL13x879c-unsplash.jpg) | 5300×3309 |
 
 ## Usage
 
