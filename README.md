@@ -57,6 +57,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/chung-hei-KD0ZXS7K2mw-unsplash.jpg" width="220"> | Covered steel walkway, green-lit tube lamps | [`chung-hei-KD0ZXS7K2mw-unsplash.jpg`](wallpapers/chung-hei-KD0ZXS7K2mw-unsplash.jpg) | 6240×4160 |
 | <img src="wallpapers/lee-milo-w_irG5oVFh8-unsplash.jpg" width="220"> | Wet narrow alley at night, string bulbs and sign | [`lee-milo-w_irG5oVFh8-unsplash.jpg`](wallpapers/lee-milo-w_irG5oVFh8-unsplash.jpg) | 8192×5464 |
 | <img src="wallpapers/pamarelcia-acidmane-n74PPKWqYwA-unsplash.jpg" width="220"> | Korean alley, shuttered repair shop under one bulb | [`pamarelcia-acidmane-n74PPKWqYwA-unsplash.jpg`](wallpapers/pamarelcia-acidmane-n74PPKWqYwA-unsplash.jpg) | 7008×4672 |
+| <img src="wallpapers/HUKYNeCaoAA62Rr.jpg" width="220"> | Snowy back-alley stairs, icicles and a steel door | [`HUKYNeCaoAA62Rr.jpg`](wallpapers/HUKYNeCaoAA62Rr.jpg) | 3967×2646 |
 
 ## Usage
 
