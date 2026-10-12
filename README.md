@@ -59,6 +59,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/pamarelcia-acidmane-n74PPKWqYwA-unsplash.jpg" width="220"> | Korean alley, shuttered repair shop under one bulb | [`pamarelcia-acidmane-n74PPKWqYwA-unsplash.jpg`](wallpapers/pamarelcia-acidmane-n74PPKWqYwA-unsplash.jpg) | 7008×4672 |
 | <img src="wallpapers/HUKYNeCaoAA62Rr.jpg" width="220"> | Snowy back-alley stairs, icicles and a steel door | [`HUKYNeCaoAA62Rr.jpg`](wallpapers/HUKYNeCaoAA62Rr.jpg) | 3967×2646 |
 | <img src="wallpapers/amaan-abid-WRay-RU_6kc-unsplash.jpg" width="220"> | Lit doorway seen through a dark scissor gate | [`amaan-abid-WRay-RU_6kc-unsplash.jpg`](wallpapers/amaan-abid-WRay-RU_6kc-unsplash.jpg) | 6240×4160 |
+| <img src="wallpapers/roy-muz-5HfUdQC_FMQ-unsplash.jpg" width="220"> | Lone lit balcony window, plants in green glow | [`roy-muz-5HfUdQC_FMQ-unsplash.jpg`](wallpapers/roy-muz-5HfUdQC_FMQ-unsplash.jpg) | 4608×3456 |
 
 ## Usage
 
