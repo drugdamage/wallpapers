@@ -62,6 +62,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/roy-muz-5HfUdQC_FMQ-unsplash.jpg" width="220"> | Lone lit balcony window, plants in green glow | [`roy-muz-5HfUdQC_FMQ-unsplash.jpg`](wallpapers/roy-muz-5HfUdQC_FMQ-unsplash.jpg) | 4608×3456 |
 | <img src="wallpapers/andrey-nuraliev-xXgedVc05Ok-unsplash.jpg" width="220"> | Dim colonnade beside a glass facade, LED ceiling strips | [`andrey-nuraliev-xXgedVc05Ok-unsplash.jpg`](wallpapers/andrey-nuraliev-xXgedVc05Ok-unsplash.jpg) | 6000×4000 |
 | <img src="wallpapers/luke-robinson-ho1PCkyOafE-unsplash.jpg" width="220"> | Closed mall at night through glass doors, blank lightboxes | [`luke-robinson-ho1PCkyOafE-unsplash.jpg`](wallpapers/luke-robinson-ho1PCkyOafE-unsplash.jpg) | 6240×4160 |
+| <img src="wallpapers/pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg" width="220"> | Dark lobby, curved glass around white columns, cove light | [`pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg`](wallpapers/pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg) | 7732×5157 |
 
 ## Usage
 
