@@ -64,6 +64,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/luke-robinson-ho1PCkyOafE-unsplash.jpg" width="220"> | Closed mall at night through glass doors, blank lightboxes | [`luke-robinson-ho1PCkyOafE-unsplash.jpg`](wallpapers/luke-robinson-ho1PCkyOafE-unsplash.jpg) | 6240×4160 |
 | <img src="wallpapers/pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg" width="220"> | Dark lobby, curved glass around white columns, cove light | [`pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg`](wallpapers/pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg) | 7732×5157 |
 | <img src="wallpapers/sara-sedlmajerova-PXP-ax76BZY-unsplash.jpg" width="220"> | Tbilisi metro entrance at night, glass doors and steel railings | [`sara-sedlmajerova-PXP-ax76BZY-unsplash.jpg`](wallpapers/sara-sedlmajerova-PXP-ax76BZY-unsplash.jpg) | 6000×4000 |
+| <img src="wallpapers/HV4cKtYaYAAMz0g.jpg" width="220"> | Blue glass waves, clouds and white wireframe curves | [`HV4cKtYaYAAMz0g.jpg`](wallpapers/HV4cKtYaYAAMz0g.jpg) | 3840×2160 |
 
 ## Usage
 
