@@ -65,6 +65,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg" width="220"> | Dark lobby, curved glass around white columns, cove light | [`pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg`](wallpapers/pauline-iakovleva-5O-IvoFAE1w-unsplash.jpg) | 7732×5157 |
 | <img src="wallpapers/sara-sedlmajerova-PXP-ax76BZY-unsplash.jpg" width="220"> | Tbilisi metro entrance at night, glass doors and steel railings | [`sara-sedlmajerova-PXP-ax76BZY-unsplash.jpg`](wallpapers/sara-sedlmajerova-PXP-ax76BZY-unsplash.jpg) | 6000×4000 |
 | <img src="wallpapers/HV4cKtYaYAAMz0g.jpg" width="220"> | Blue glass waves, clouds and white wireframe curves | [`HV4cKtYaYAAMz0g.jpg`](wallpapers/HV4cKtYaYAAMz0g.jpg) | 3840×2160 |
+| <img src="wallpapers/HWMkUhbaMAAONJ3.jpg" width="220"> | Snowy road at night, blue-lit flakes and bare trees | [`HWMkUhbaMAAONJ3.jpg`](wallpapers/HWMkUhbaMAAONJ3.jpg) | 3976×2652 |
 
 ## Usage
 
