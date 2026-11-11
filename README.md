@@ -67,6 +67,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HV4cKtYaYAAMz0g.jpg" width="220"> | Blue glass waves, clouds and white wireframe curves | [`HV4cKtYaYAAMz0g.jpg`](wallpapers/HV4cKtYaYAAMz0g.jpg) | 3840×2160 |
 | <img src="wallpapers/HWMkUhbaMAAONJ3.jpg" width="220"> | Snowy road at night, blue-lit flakes and bare trees | [`HWMkUhbaMAAONJ3.jpg`](wallpapers/HWMkUhbaMAAONJ3.jpg) | 3976×2652 |
 | <img src="wallpapers/mche-lee--l33uwHvxkE-unsplash.jpg" width="220"> | Dim concrete stairwell, red-edged steps and open glass doors | [`mche-lee--l33uwHvxkE-unsplash.jpg`](wallpapers/mche-lee--l33uwHvxkE-unsplash.jpg) | 5472×3648 |
+| <img src="wallpapers/HWMkUhdaIAAB0Q2.jpg" width="220"> | Snowy road bend at night, deep snowbanks and blue-lit flakes | [`HWMkUhdaIAAB0Q2.jpg`](wallpapers/HWMkUhdaIAAB0Q2.jpg) | 3976×2652 |
 
 ## Usage
 
