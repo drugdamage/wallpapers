@@ -68,6 +68,7 @@ A small stash of desktop backgrounds.
 | <img src="wallpapers/HWMkUhbaMAAONJ3.jpg" width="220"> | Snowy road at night, blue-lit flakes and bare trees | [`HWMkUhbaMAAONJ3.jpg`](wallpapers/HWMkUhbaMAAONJ3.jpg) | 3976×2652 |
 | <img src="wallpapers/mche-lee--l33uwHvxkE-unsplash.jpg" width="220"> | Dim concrete stairwell, red-edged steps and open glass doors | [`mche-lee--l33uwHvxkE-unsplash.jpg`](wallpapers/mche-lee--l33uwHvxkE-unsplash.jpg) | 5472×3648 |
 | <img src="wallpapers/HWMkUhdaIAAB0Q2.jpg" width="220"> | Snowy road bend at night, deep snowbanks and blue-lit flakes | [`HWMkUhdaIAAB0Q2.jpg`](wallpapers/HWMkUhdaIAAB0Q2.jpg) | 3976×2652 |
+| <img src="wallpapers/2026-07-26%2023.37.42.jpg" width="220"> | Dark industrial interior, riveted steel and a vertical ladder | [`2026-07-26 23.37.42.jpg`](wallpapers/2026-07-26%2023.37.42.jpg) | 6240×4160 |
 
 ## Usage
 
