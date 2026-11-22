@@ -54,3 +54,4 @@ A collection of desktop wallpapers. Full-resolution images are in [`wallpapers/`
 | <img src="wallpapers/HWMkUhdaIAAB0Q2.jpg" width="220"> | Snowy road bend at night, deep snowbanks and blue-lit flakes | [`HWMkUhdaIAAB0Q2.jpg`](wallpapers/HWMkUhdaIAAB0Q2.jpg) | 3976×2652 |
 | <img src="wallpapers/2026-07-26%2023.37.42.jpg" width="220"> | Dark industrial interior, riveted steel and a vertical ladder | [`2026-07-26 23.37.42.jpg`](wallpapers/2026-07-26%2023.37.42.jpg) | 6240×4160 |
 | <img src="wallpapers/mavis-m-CisvyPedEdM-unsplash.jpg" width="220"> | Dark wooden walkway, bolted steel mesh railing | [`mavis-m-CisvyPedEdM-unsplash.jpg`](wallpapers/mavis-m-CisvyPedEdM-unsplash.jpg) | 6240×4160 |
+| <img src="wallpapers/adrien-brunat-kWWBOy3T3cY-unsplash.jpg" width="220"> | Foggy street at night, glowing lamps and parked cars | [`adrien-brunat-kWWBOy3T3cY-unsplash.jpg`](wallpapers/adrien-brunat-kWWBOy3T3cY-unsplash.jpg) | 6000×4000 |
